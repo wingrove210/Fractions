@@ -1,0 +1,3 @@
+﻿  FractionsMain.cpp
+C:\Users\Admin\source\repos\Prakticheskaya3.2\Fractions.h(15,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Prakticheskaya3.2.vcxproj -> C:\Users\Admin\source\repos\Prakticheskaya3.2\x64\Debug\Prakticheskaya3.2.exe
